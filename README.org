@@ -1,0 +1,6 @@
+#+TITLE: Website para as Olimpíadas de Matemática da UNEMAT
+#+AUTHOR: Josias Duarte Busiquia
+
+Este projeto tem como proposta uma aplicação web para as Olimpíadas de
+Matemática da UNEMAT. O objetivo é que ela “comtemple todas as etapas de
+inscrição, acompanhamento, correção, gestão e tratamento estatístico dos dados.”

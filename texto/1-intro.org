@@ -1,0 +1,9 @@
+Parte principal do relatório. Em dois parágrafos apresente de maneira sucinta o
+/*assunto*/ tratado, aponte a /*relevância*/ do trabalho e o /*local*/ onde o
+estágio foi realizado.
+
+No terceiro parágrafo, /*justifique*/ a motivação para a escolha do tema/área e
+das tecnologias e ferramentas usadas.
+
+No último parágrafo descreva resumidamente as principais atividades
+desenvolvidas.

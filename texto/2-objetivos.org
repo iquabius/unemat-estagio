@@ -1,0 +1,17 @@
+* Objetivo Geral
+
+  Um dos objetivos do programa de extensão das Olimpíadas de Matemática é o
+  “desenvolvimento de um sistema computacional que contemple todas as etapas de
+  inscrição, acompanhamento, correção, gestão e tratamento estatístico dos
+  dados”.
+
+* Objetivos Específicos
+
+  Faz sentido listar os módulos da aplicação como objetivos específicos?
+
+  - Contemplar criação e acompanhamento de edições das olimpíadas;
+  - Contemplar criação e gerenciamento de questões;
+  - Contemplar elaboração e correção de provas;
+  - Contemplar inscrição e acompanhamento das escolas;
+  - Contemplar inscrição e acompanhamento dos alunos;
+  - Contemplar tratamento estatístico dos dados;
